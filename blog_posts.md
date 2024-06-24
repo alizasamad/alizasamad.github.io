@@ -4,7 +4,7 @@ title: Blog Posts
 landing-title: 'Blog Posts'
 nav-menu: true
 description: null
-image: null
+image: assets/images/trendAnalysis.avif
 author: null
 show_tile: true
 ---
