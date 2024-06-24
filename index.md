@@ -5,7 +5,7 @@ landing-title: 'Hi, my name is Aliza'
 description: null
 image: null
 author: Aliza Samad
-show_tile: true
+show_tile: false
 ---
 
 Hi! My name is Aliza Samad, and I'm a rising junior at the University of California, Santa Barbara currently looking for internships in either Data Analytics or Product Management. To see change, YOU must be the change you wish to see. In my first year of college alone, I joined Data Science UCSB as the outreach intern, UCSB Indus as a board intern, and Dhadkan as a board member. After getting my degree, I plan to pursue an MBA. 
