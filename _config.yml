@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+title: Portfolio
+subtitle: by Aliza Samad
+email: alizasamad@ucsb.edu
+#description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+#baseurl: # the subpath of your site, e.g. /blog
+url: https://alizasamad.github.io # the base hostname & protocol for your site
+author: Aliza Samad
+#street_address: 1234 Somewhere Road
+city: Bay Area
+state: CA
+#zip_code: 55555
 country: United States of America
-phone: (716) 555-5555
+phone: (925) 495-9396
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,14 +22,14 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  GitHub: https://github.com/alizasamad
+  #GitLab:
+  #Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Instagram: @_al._.iza_
+  LinkedIn: https://www.linkedin.com/in/aliza-samad-data-analyst/
+  #Twitter: https://twitter.com/andrewbanchich
+  #Facebook:
+  #Slack:
 
 # build settings
 markdown: kramdown
