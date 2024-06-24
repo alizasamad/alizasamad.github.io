@@ -1,11 +1,17 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Hi, my name is Aliza'
 description: null
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Hi! My name is Aliza Samad, and I'm a rising junior at the University of California, Santa Barbara currently looking for internships in either Data Analytics or Product Management. To see change, YOU must be the change you wish to see. In my first year of college alone, I joined Data Science UCSB as the outreach intern, UCSB Indus as a board intern, and Dhadkan as a board member. After getting my degree, I plan to pursue an MBA. 
+
+My combined passions for business and data analytics make product management in the data analytics field the perfect career path for me! With politics and business being so closely related, my ultimate goal is to one day achieve a position on the board of my company so that I can be the change I want to see— starting with fair and equal treatment of all genders in the workplace.
+
+My other interests range from singing and dancing to hiking and being outdoors. One of my favorite pastimes is playing badminton with my friends and family.
+
+Feel free to contact me at alizasamad@ucsb.edu!
