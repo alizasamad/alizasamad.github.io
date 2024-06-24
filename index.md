@@ -4,7 +4,7 @@ title: Home
 landing-title: 'Hi, my name is Aliza'
 description: null
 image: null
-author: null
+author: Aliza Samad
 show_tile: true
 ---
 
