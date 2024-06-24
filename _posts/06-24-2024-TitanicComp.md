@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TitancComp
+title: TitanicComp
 description:  Manipulating the Kaggle Titanic Data Set 
 image: assets/images/pic02.jpg
 ---
