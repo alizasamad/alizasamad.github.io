@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: Resume
+image: assets/images/blogImage.jpeg
 nav-menu: true
 ---
 
