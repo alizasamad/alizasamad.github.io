@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: Blog Posts
-landing-title: 'Blog Posts'
+title: Blog
+landing-title: 'Blog'
 nav-menu: true
 description: null
 image: assets/images/trendAnalysis.avif
