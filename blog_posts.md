@@ -9,4 +9,4 @@ author: null
 show_tile: true
 ---
 
-<h1>Blog Posts</h1>
+<h1>Blog</h1>
