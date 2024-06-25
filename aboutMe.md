@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="file:///Users/alizasamad/Downloads/Resumes/Aliza%20Samad_Resume_6:18.pdf" class="button">Resume</a></li>
+					<li><a href="C:/Users/alizasamad/Downloads/Resumes/officialResume2024.pdf" class="button">Resume</a></li>
 				</ul>
 			</div>
 		</div>
