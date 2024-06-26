@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Skills & References
 image: assets/images/blogImage.jpeg
 nav-menu: true
 ---
