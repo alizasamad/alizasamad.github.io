@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Skills, Certifications, and more!
-description: Lorem ipsum dolor est
+title: References, Skills, Certifications
+description: null
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
