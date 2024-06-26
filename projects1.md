@@ -1,6 +1,6 @@
 ---
 layout: post
-title: References, Skills, Certifications
+title: Projects
 description: null
 image: assets/images/pic11.jpg
 nav-menu: true
