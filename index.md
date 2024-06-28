@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to my Portfolio'
+landing-title: 'Welcome!'
 description: Aliza Samad's Data Science Portfolio
 image: null
 author: Aliza Samad
