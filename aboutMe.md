@@ -48,7 +48,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Future Goals</h3>
 				</header>
-				<p>After getting a B.S. in Statistics and Data Science from the University of California, Santa Barbara, I plan on working in the field for a year or two before pursuing my MBA. My combined interests in business and data analytics make product management in the data analytics field the perfect career path for me! With politics and business being so closely related, my ultimate goal is to one day achieve a position on the company board so that I can be the change I want to see— starting with fair and equal treatment of all genders in the workplace.</p>
+				<p>After getting a B.S. in Statistics and Data Science from the University of California, Santa Barbara, I plan on working in the field for a year or two before pursuing my MBA. My combined interests in business and data analytics make product management the perfect career path for me! With politics and business being so closely related, my ultimate goal is to one day achieve a position on the company board so that I can be the change I want to see— starting with fair and equal treatment of all genders in the workplace.</p>
 			</div>
 		</div>
 	</section>
@@ -61,7 +61,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Hobbies</h3>
 				</header>
-				<p>I love listening to music from artists such as The Beatles, Billie Eilish, and Arjit Singh. I am also teaching myself how to play Haley Heynderickx's song, "The Bug Collector," on the guitar. Some of my other hobbies include hiking and exploring nature. My favorite places to hike are Muir Woods and Pinnacles National Park. However, my favorite pastime has to be spending quality time with family and friends. My best memories are of my family playing badminton in our backyard in the cool, summer evenings!</p>
+				<p>I love listening to music from artists such as The Beatles, Billie Eilish, and Arjit Singh. I also enjoy learning how to play different instruments. Currently, I am teaching myself how to play Haley Heynderickx's song, "The Bug Collector," on the guitar. Some of my other hobbies include hiking and exploring nature. My favorite places to hike are Muir Woods and Pinnacles National Park in California. However, my favorite pastime has to be spending quality time with family and friends. My best memories are of my family playing badminton in our backyard in the cool summer evenings!</p>
 			</div>
 		</div>
 	</section>
@@ -73,7 +73,7 @@ nav-menu: true
 		<header class="major">
 			<h2>That's all folks!</h2>
 		</header>
-		<p>For more content, visit either the Projects or Blog pages. If you would like to know more about my qualifications, visit the Skills, Certifications, and More page. Thanks for visiting, and feel free to reach out using any of the contact methods below!</p>
+		<p>For more content, check out the Projects and Blog pages. Thanks for visiting, and feel free to reach out using any of the contact methods below!</p>
 	</div>
 </section>
 
