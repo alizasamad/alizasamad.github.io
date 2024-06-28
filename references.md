@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: null
 title: Skills & References
 image: assets/images/blogImage.jpeg
 nav-menu: false
