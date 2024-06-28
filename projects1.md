@@ -2,7 +2,7 @@
 layout: post
 title: Projects
 description: null
-image: assets/images/titanicImage.jpeg
+image: assets/images/tianicImage.jpeg
 nav-menu: true
 ---
 ## Titanic Competition 2023
