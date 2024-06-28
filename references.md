@@ -1,8 +1,9 @@
 ---
-layout: null
+layout: pages
 title: Skills & References
 image: assets/images/blogImage.jpeg
 nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
