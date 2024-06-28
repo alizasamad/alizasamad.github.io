@@ -2,7 +2,7 @@
 layout: page
 title: Skills & References
 image: assets/images/blogImage.jpeg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
