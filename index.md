@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Aliza Samad— Data Analyst'
+landing-title: 'Aliza Samad... Data Analyst'
 description: 'Aliza Samad's Data Analysis Portfolio'
 image: null
 author: Aliza Samad
