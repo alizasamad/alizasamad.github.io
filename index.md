@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Welcome!'
-description: "Aliza Samad's Data Analyst Portfolio"
+description: null
 image: null
 author: Aliza Samad
 show_tile: false
