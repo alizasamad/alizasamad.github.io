@@ -2,7 +2,6 @@
 layout: home
 title: Home
 landing-title: 'Welcome!'
-description: null
 image: null
 author: Aliza Samad
 show_tile: false
