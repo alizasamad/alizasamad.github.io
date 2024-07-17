@@ -34,7 +34,7 @@ nav-menu: true
 				</header>
 				<p>Click on the button below to view my resume.</p>
 				<ul class="actions">
-					<li><a href="officialResume2024.pdf" class="button">Resume</a></li>
+					<li><a href="AlizaSamadResume2024.pdf" class="button">Resume</a></li>
 				</ul>
 			</div>
 		</div>
