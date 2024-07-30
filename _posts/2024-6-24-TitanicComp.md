@@ -5,4 +5,4 @@ description:  null
 image: assets/images/comingSoon.jpg
 ---
 
-Blogs are on the way! Stay tuned for more [content](BlogNumberOne). 
+Blogs are on the way! Stay tuned for more [content](alizasamad.github.io/_posts/BlogNumberOne.md). 
