@@ -16,7 +16,7 @@ date: 2024-07-30 13:45
 				</header>
 				<p>Need help finding internships? Read this article to learn the tools necessary for data analysis and data science!</p>
 				<ul class="actions">
-					<li><a href="2024-07-30-Blog-Number-One.html" class="button">Article</a></li>
+					<li><a href="blogPosts/2024-07-30-Blog-Number-One.html" class="button">Article</a></li>
 				</ul>
 			</div>
 		</div>
