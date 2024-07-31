@@ -1,12 +1,10 @@
 ---
 layout: post
 description: null
-title: null
+title: No Internship? No Problem!
 image: null
 date: 2024-07-30
 ---
-
-# No Internship? No Problem!
 
 Welcome readers! If you’re reading this blog, you’re probably in the same boat as me– an internship-less boat. Not to worry! If you keep applying to internships, you’re bound to strike at least one… right? Of course, this could mean applying to anywhere between 100 or even 500 different companies without the guarantee of making it to the interview stage. While cold applying is one avenue that desperate college students, like myself, may take, some tips and tricks might make the process a little easier and less time-consuming for all of us. 
 
