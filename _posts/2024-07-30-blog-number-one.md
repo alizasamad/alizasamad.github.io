@@ -3,7 +3,8 @@ layout: post
 title: No Internship? No Problem!
 description: null
 image: null
-date: 2024-07-30
+date: 07-30-2024
+time: 06:03:27
 ---
 
 # No Internship? No Problem!
