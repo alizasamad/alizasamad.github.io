@@ -17,7 +17,7 @@ image: assets/images/dataScienceBlog.jpeg
 				</header>
 				<p>Need help finding internships? Read this article to learn the tools necessary for data analysis and data science!</p>
 				<ul class="actions">
-					<li><a href="BlogNumberOne.md" class="button">No Internship? No Problem!</a></li>
+					<li><a href="BlogNumberOne.md" class="button">Article</a></li>
 				</ul>
 			</div>
 		</div>
