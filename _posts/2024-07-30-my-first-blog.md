@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogs
+title: Blog
 date: 2024-07-30 13:45
 ---
 <!-- One -->
