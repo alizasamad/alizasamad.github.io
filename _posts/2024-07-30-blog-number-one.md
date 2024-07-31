@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogs
+title: No Internship? No Problem!
 description: null
 image: null
 date: 2024-07-30
