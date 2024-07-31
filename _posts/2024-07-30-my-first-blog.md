@@ -6,7 +6,7 @@ date: 2024-07-30 13:45
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-		<a href="Blog_Number_One.html" class="image">
+		<a href="blogPosts/2024-07-30-Blog-Number-One.html" class="image">
 			<img src="{% link assets/images/BlogOneImage.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
