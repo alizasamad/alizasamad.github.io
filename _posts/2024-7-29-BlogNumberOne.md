@@ -2,7 +2,7 @@
 layout: post
 title: Blogs
 description: null
-image: assets/images/dataScienceBlog.jpeg
+image: null
 ---
 <!-- One -->
 <section id="one" class="spotlights">
