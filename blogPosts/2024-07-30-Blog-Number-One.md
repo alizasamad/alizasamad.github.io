@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Internship? No Problem!
-show_tile: false
+show_tile: true
 author: Aliza Samad
 date: 2024-07-30 13:45
 ---
