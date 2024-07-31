@@ -1,4 +1,4 @@
-name: Fetch Blog Post
+name: Fetch Blog Posts
 
 on:
   push:
@@ -8,24 +8,21 @@ on:
     - cron: '0 0 * * *' # Runs daily at midnight UTC
 
 jobs:
-  fetch-blog:
+  fetch-blogs:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Fetch blog post
+    - name: Fetch blog posts
       run: |
         mkdir -p blogs
-        curl -L https://raw.githubusercontent.com/alizasamad/blogs/main/Blog%231.md -o blogs/Blog#1.md
+        curl -L https://github.com/alizasamad/blogs/blob/main/Blog%231.md -o blogs/Blog1.md
 
     - name: Commit changes
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add blogs/Blog1.md
-        git commit -m "Update Blog Post"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        git add blogs/*.md
+        git commit -
