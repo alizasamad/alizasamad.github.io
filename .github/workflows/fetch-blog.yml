@@ -18,7 +18,7 @@ jobs:
     - name: Fetch blog post
       run: |
         mkdir -p blogs
-        curl -L https://raw.githubusercontent.com/alizasamad/blogs/main/Blog%231.md -o blogs/Blog1.md
+        curl -L https://raw.githubusercontent.com/alizasamad/blogs/main/Blog%231.md -o blogs/Blog#1.md
 
     - name: Commit changes
       run: |
