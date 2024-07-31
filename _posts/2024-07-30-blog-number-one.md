@@ -1,8 +1,9 @@
 ---
 layout: post
 description: null
+title: null
 image: null
-date: 07-30-2024
+date: 2024-07-30
 ---
 
 # No Internship? No Problem!
