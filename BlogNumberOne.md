@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: post
 title: No Internship? No Problem!
 image: null
 nav-menu: false
