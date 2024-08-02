@@ -2,7 +2,7 @@
 layout: post
 title: Projects
 description: Here are some cool data analysis/science projects!
-image: null
+image: assets/images/pic02.jpg
 nav-menu: true
 ---
 <!-- One -->
