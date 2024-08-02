@@ -2,7 +2,7 @@
 title: About Me
 layout: landing
 description: Statistics & Data Science @ UCSB
-image: assets/images/pic07.jpg
+image: assets/images/aliza.png
 nav-menu: true
 ---
 
