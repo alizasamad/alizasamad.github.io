@@ -59,7 +59,7 @@ I’ve included a few videos from data science channels below that I’ve found 
   - [What To Do If You Don't Have An Internship](https://www.youtube.com/watch?v=4V6shQVmcGc) (Ranesh Guruparan)
   - [Build Perfect Data Analyst Portfolio (FASTEST Way)](https://www.youtube.com/watch?v=TC6xYyO320E&list=WL&index=5) (Learn With Lukas)
   - [Top Courses to Become a Data Analyst](https://www.youtube.com/watch?v=aqRxZSrJLEc&list=WL&index=6) (Luke Barousse)
-  - [Scraping Data From a Real Website | Web Scraping in Python](https://www.youtube.com/watch?v=8dTpNajxaH0&list=WL&index=2) (Alex the Analyst)
+  - [Scraping Data From a Real Website Web Scraping in Python](https://www.youtube.com/watch?v=8dTpNajxaH0&list=WL&index=2) (Alex the Analyst)
 
 
 ## [3. Datacamp](https://www.datacamp.com/)
