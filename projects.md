@@ -26,3 +26,28 @@ nav-menu: true
 		</div>
 	</section>
 </section>
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="https://public.tableau.com/views/CO2_Uptake_Trends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="image">
+			<img src="{% link assets/images/CO2_Uptake.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>CO2 Uptake Trends Visualization Dashboard</h3>
+				</header>
+				<p>This introductory data visualization project explores some of Tableau's commonly used features. The resulting dashboard is based on the R dataset, "CO2," and explores CO2 uptake trends based on treatment and type of plant. Check out the resources below for more details. 
+					<a href = "CO2_data.csv">link.</a>
+				</p>
+				<ul class="actions">
+					<li><a href="CO2_data.csv" class="button">CO2 Data File</a></li>
+				</ul>
+				<ul class="actions">
+					<li><a href="https://public.tableau.com/views/CO2_Uptake_Trends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="button">Tableau Project Dashboard</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
