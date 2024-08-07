@@ -18,6 +18,7 @@ nav-menu: true
 				</header>
 				<p>I used Python's web scraping capabilities to compile data on the top 1500 Hindi Movies and TV Series. The tools I used to accomplish my goal are Python's Beautiful Soup and Selenium libraries. These results are based on IMDB ratings alone and were received through this 
 				</p>
+				<a href = "https://www.imdb.com/search/title/?title_type=feature,tv_series&release_date=1950-01-01,2024-12-31&countries=IN&languages=hi">link.</a>
 				<ul class="actions">
 					<li><a href="https://github.com/alizasamad/IMDB_Web_Scraping_Project/tree/main" class="button">GitHub Project Page</a></li>
 				</ul>
@@ -38,7 +39,6 @@ nav-menu: true
 					<h3>CO2 Uptake Trends Visualization Dashboard</h3>
 				</header>
 				<p>This introductory data visualization project explores some of Tableau's commonly used features. The resulting dashboard is based on the R dataset, "CO2," and explores CO2 uptake trends based on treatment and type of plant. Check out the resources below for more details. 
-					<a href = "CO2_data.csv">link.</a>
 				</p>
 				<ul class="actions">
 					<li><a href="CO2_data.csv" class="button">CO2 Data File</a></li>
