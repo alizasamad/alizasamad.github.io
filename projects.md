@@ -42,8 +42,6 @@ nav-menu: true
 				</p>
 				<ul class="actions">
 					<li><a href="CO2_data.csv" class="button">CO2 Data File</a></li>
-				</ul>
-				<ul class="actions">
 					<li><a href="https://public.tableau.com/views/CO2_Uptake_Trends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="button">Tableau Project Dashboard</a></li>
 				</ul>
 			</div>
