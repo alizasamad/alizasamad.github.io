@@ -1,0 +1,48 @@
+<!-- Chat Widget Test -->
+<style>
+#chat-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #a791f8;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  font-size: 30px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  z-index: 9999;
+}
+
+#chat-frame {
+  position: fixed;
+  bottom: 90px;
+  right: 20px;
+  width: 400px;
+  height: 600px;
+  border: none;
+  display: none;
+  z-index: 9998;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+}
+</style>
+
+<!-- OWUI button + iframe -->
+<button id="chat-button">💬</button>
+<iframe
+  id="chat-frame"
+  src="http://localhost:3000/"
+  title="Chat Widget Frame"
+></iframe>
+
+<script>
+const btn = document.getElementById('chat-button');
+const frame = document.getElementById('chat-frame');
+btn.onclick = () => {
+  frame.style.display = frame.style.display === 'block' ? 'none' : 'block';
+};
+</script>
+<!-- End Chat Widget Test -->
