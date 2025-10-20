@@ -1,7 +1,5 @@
 # Welcome!
-
-
-
+Welcome to my portfolio! Note that the chat widget will work with any locally deployed chat UI. Navigate to `chat-widget.html` to adjust the http address the iframe points to.
 
 # Credits
 

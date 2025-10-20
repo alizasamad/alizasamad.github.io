@@ -41,7 +41,7 @@ nav-menu: true
 				<p>This introductory data visualization project explores some of Tableau's commonly used features. The resulting dashboard is based on the R dataset, "CO2," and explores CO2 uptake trends based on treatment and type of plant. Check out the resources below for more details. 
 				</p>
 				<ul class="actions">
-					<li><a href="CO2_data.csv" class="button">CO2 Data File</a></li>
+					<li><a href="assets/files/CO2_data.csv" class="button">CO2 Data File</a></li>
 					<li><a href="https://public.tableau.com/views/CO2_Uptake_Trends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="button">Tableau Project Dashboard</a></li>
 				</ul>
 			</div>
