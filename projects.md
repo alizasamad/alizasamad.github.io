@@ -8,6 +8,49 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
+		<a href="https://github.com/varunsardana/UCSB-Datathon-2026" class="image">
+			<img src="{% link assets/images/AfterShock.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>AfterShock</h3>
+				</header>
+				<p>AfterShock is a full-stack AI platform that predicts, explains, and advises on the employment impact of natural disasters across the United States. Users can explore an interactive disaster map, run sector-by-sector job loss predictions for any state and disaster type, and chat with an AI advisor that draws on all three data layers at once.
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/varunsardana/UCSB-Datathon-2026" class="button">GitHub Project Page</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="https://github.com/alizasamad/arXiv-research-assistant" class="image">
+			<img src="{% link assets/images/arxivAssisstant.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>arXiv Research Assistant</h3>
+				</header>
+				<p>I developed a A local, multi-agent research assistant that searches arXiv, retrieves semantically relevant papers, and synthesizes findings using LLMs — all running on your machine via Ollama. You can access the arXiv library via this 
+				<a href = "https://arxiv.org/">link.</a>
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/alizasamad/arXiv-research-assistant" class="button">GitHub Project Page</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
+
+<!-- Three -->
+<section id="three" class="spotlights">
+	<section>
 		<a href="https://github.com/alizasamad/IMDB_Web_Scraping_Project/tree/main" class="image">
 			<img src="{% link assets/images/IMDB_image.png %}" alt="" data-position="center center" />
 		</a>
@@ -27,8 +70,8 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Two -->
-<section id="two" class="spotlights">
+<!-- Four -->
+<section id="four" class="spotlights">
 	<section>
 		<a href="https://public.tableau.com/views/CO2_Uptake_Trends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="image">
 			<img src="{% link assets/images/CO2_Uptake.png %}" alt="" data-position="center center" />
